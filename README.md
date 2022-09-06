@@ -6,7 +6,7 @@ Eu sou o Felipe Ferreira, sou Programador Front End e atualmente estou aprendend
 
 
 
-<strong>Iniciando o aprendizando em:<strong/>
+<strong>Aprendizando em andamento:<strong/>
 
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" /> 
  
