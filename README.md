@@ -20,6 +20,7 @@ Eu sou o Felipe Ferreira, sou Programador Front End e atualmente estou aprendend
   <br>
   <br>
   <br>
+ <img src="https://miro.medium.com/max/640/1*dxbvVHJkUh5HagZ7HI0nFw.gif"/>
   
   [![Felipe stats](https://github-readme-stats.vercel.app/api?username=felipefll)](https://github.com/anuraghazra/github-readme-stats)
   
